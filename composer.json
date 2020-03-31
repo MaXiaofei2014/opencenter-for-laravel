@@ -8,7 +8,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "MaXiaofei\\OpencenterForLaravel\\": "packages/maxiaofei/opencenter-for-laravel/src"
+            "MaXiaofei\\OpencenterForLaravel\\": "src/"
         }
     },
     "require": {}
